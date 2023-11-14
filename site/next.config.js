@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Dragonatorul\'s personal KASM Workspaces',
+    name: 'Dragonatorul-kasm',
     description: 'A personal store for Kasm workspaces used by Dragonatorul.',
     icon: 'https://dragonatorul.github.io/kasm-registry/1.0/logo.svg',
     listUrl: 'https://dragonatorul.github.io/kasm-registry/',
